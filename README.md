@@ -10,4 +10,4 @@ Hours: 6-7
 * If you're dragging the headline up past the top, the friction should increase
 
 
-![animated gif](https://raw.githubusercontent.com/chocobo/Homework-3-paperGesture/master/paperGesture.gif)
+![animated gif](https://raw.githubusercontent.com/chocobo/Homework3-paperGesture/master/paperGesture.gif)
